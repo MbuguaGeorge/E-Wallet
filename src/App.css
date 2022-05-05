@@ -1,0 +1,115 @@
+.my_wallet{
+  position: absolute;
+  top: 5%;
+  left: 20%;
+  right: 20%;
+}
+
+.profile-pic img{
+  width: 40px;
+  border-radius: 50%;
+  float: right;
+}
+
+.profile-pic label{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 210px;
+  line-height: 50px;
+  letter-spacing: 2px;
+}
+
+.wallet{
+  background-color: #2691d9;
+  border-radius: 10px;
+  padding-top: 10px;
+}
+
+.wallet h1{
+  color: white;
+  font-size: 1.5rem;
+  border-bottom: 1px solid #ddd;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  font-weight: 600;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.wallet h2{
+  padding-left: 30px;
+  color: white;
+  font-weight: 200;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1rem;
+}
+
+.wallet h3{
+  padding-left: 30px;
+  color: #ddd;
+}
+
+.wallet ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wallet ul li{
+  list-style: none;
+  padding: 30px;
+  cursor: pointer;
+}
+
+.wallet ul li img{
+  position: relative;
+  top: 5px;
+}
+
+.wallet ul li label{
+  color: white;
+  font-weight: 700;
+  padding-left: 8px;
+}
+
+.marketplace h5{
+  color: #2691d9;
+  font-size: 1.8rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
+}
+
+.currency{
+  display: flex;
+  background-color: #ddd;
+  margin: 15px;
+  border-radius: 5px;
+  width: 80%;
+}
+
+.logo img{
+  width: 25px;
+  position: relative;
+  padding: 10px;
+  padding-top: 20px;
+}
+
+.curr p{
+  margin: 0;
+  font-size: 13px;
+  font-weight: 500;
+}
+.curr h4{
+  margin: 0;
+  font-size: 1.3rem;
+}
+
+.curr{
+  padding-top: 8px;
+}
+
+.value{
+  margin-left: auto;
+  order: 2;
+  margin-right: 20px;
+}
